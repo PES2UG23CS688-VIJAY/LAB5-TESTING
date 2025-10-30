@@ -1,0 +1,7 @@
+************* Module inventory_system
+inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory_system.py:3:0: W0611: Unused datetime imported from datetime (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 9.71/10 (previous run: 9.71/10, +0.00)
+
