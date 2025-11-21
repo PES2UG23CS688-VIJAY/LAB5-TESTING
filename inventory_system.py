@@ -122,6 +122,8 @@ def main():
     print("Low items:", inv.check_low_items())
     inv.save_data()
     inv.print_data()
+    inv.save_data()
+    format(for(int i=0;i<10;i++  )):
 
 
 if __name__ == "__main__":
